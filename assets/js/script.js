@@ -43,7 +43,31 @@ function generatePassword(){
       var special = confirm("Include special characters?");
     }
 
-    console.log("Next Code Goes here")
+    // Generate Characters to be in the password
+
+    var passwordCharacters = '';
+
+    // if user selects lowercase append the character to passwordCharacters
+    if(lowercase){
+      passwordCharacters +='abcdefghijklmnopqrstuvwxyz';
+    }
+
+    //if user selects upppercase append the character to passwordCharacters
+    if(uppercase){
+      passwordCharacters +='ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    }
+
+    // if user select number append the character to passwordCharaceters
+    if(numeric){
+      passwordCharacters +='0123456789';
+    }
+
+    //if user selects special append the character to passwordCharacters
+    if(special){
+      passwordCharacters +="!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
+    }
+
+
 }
 
 
