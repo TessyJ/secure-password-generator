@@ -1,7 +1,10 @@
-/// Assignment Code
+// Select Button with Id generate
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+// Event Listener When generate button is clicked
+generateBtn.addEventListener("click", writePassword);
+
+// Function to prompt for password criteria and generate a password
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
@@ -10,5 +13,4 @@ function writePassword() {
 
 }
 
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+
