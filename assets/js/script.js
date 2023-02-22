@@ -67,7 +67,13 @@ function generatePassword(){
       passwordCharacters +="!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
     }
 
-
+    // set password to empty
+    var password = '';
+    for (let index = 0; index <= passwordLenght; index++) {
+       password += passwordCharacters.charAt(Math.floor(Math.random() * passwordCharacters.length));
+      
+       
+    }
 }
 
 
