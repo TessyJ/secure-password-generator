@@ -11,8 +11,7 @@ This Webpage helps user to generate a very secured password based on the criteri
 
 # Project Screenshot
 <img width="1600" alt="Home Page" src="https://tessyj.github.io/secure-password-generator/assets/images/index.png">
-
-<img width="1600" alt="Enter input" src="https://tessyj.github.io/secure-password-generator/assets/images/index.png">
+<br> <br>
 
 <img width="1600" alt="Invalid Input" src="https://tessyj.github.io/secure-password-generator/assets/images/invalid-input.png">
  
