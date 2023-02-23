@@ -14,15 +14,22 @@ This Webpage helps user to generate a very secured password based on the criteri
 <br> <br>
 
 <img width="1600" alt="Invalid Input" src="https://tessyj.github.io/secure-password-generator/assets/images/invalid-input.png">
+<br> <br>
  
 <img width="1600" alt="Password Criteria" src="https://tessyj.github.io/secure-password-generator/assets/images/criteria.png">
+<br> <br>
 
 <img width="1600" alt="Lowercase Criteria" src="https://tessyj.github.io/secure-password-generator/assets/images/lowercase.png">
+<br> <br>
 
 <img width="1600" alt="Uppercase Criteria" src="https://tessyj.github.io/secure-password-generator/assets/images/uppercase.png">
+<br> <br>
 
 <img width="1600" alt="Numbers Criteria" src="https://tessyj.github.io/secure-password-generator/assets/images/numbers.png">
+<br> <br>
 
 <img width="1600" alt="Special Characters Criteria" src="https://tessyj.github.io/secure-password-generator/assets/images/special.png">
+<br> <br>
 
 <img width="1600" alt="Generated Password" src="https://tessyj.github.io/secure-password-generator/assets/images/password-generated.png">
+
